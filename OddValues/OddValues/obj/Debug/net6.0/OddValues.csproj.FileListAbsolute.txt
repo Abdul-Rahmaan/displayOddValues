@@ -1,0 +1,15 @@
+E:\leetProblems\DisplayOddValues\displayOddValues\OddValues\OddValues\bin\Debug\net6.0\OddValues.exe
+E:\leetProblems\DisplayOddValues\displayOddValues\OddValues\OddValues\bin\Debug\net6.0\OddValues.deps.json
+E:\leetProblems\DisplayOddValues\displayOddValues\OddValues\OddValues\bin\Debug\net6.0\OddValues.runtimeconfig.json
+E:\leetProblems\DisplayOddValues\displayOddValues\OddValues\OddValues\bin\Debug\net6.0\OddValues.dll
+E:\leetProblems\DisplayOddValues\displayOddValues\OddValues\OddValues\bin\Debug\net6.0\OddValues.pdb
+E:\leetProblems\DisplayOddValues\displayOddValues\OddValues\OddValues\obj\Debug\net6.0\OddValues.csproj.AssemblyReference.cache
+E:\leetProblems\DisplayOddValues\displayOddValues\OddValues\OddValues\obj\Debug\net6.0\OddValues.GeneratedMSBuildEditorConfig.editorconfig
+E:\leetProblems\DisplayOddValues\displayOddValues\OddValues\OddValues\obj\Debug\net6.0\OddValues.AssemblyInfoInputs.cache
+E:\leetProblems\DisplayOddValues\displayOddValues\OddValues\OddValues\obj\Debug\net6.0\OddValues.AssemblyInfo.cs
+E:\leetProblems\DisplayOddValues\displayOddValues\OddValues\OddValues\obj\Debug\net6.0\OddValues.csproj.CoreCompileInputs.cache
+E:\leetProblems\DisplayOddValues\displayOddValues\OddValues\OddValues\obj\Debug\net6.0\OddValues.dll
+E:\leetProblems\DisplayOddValues\displayOddValues\OddValues\OddValues\obj\Debug\net6.0\refint\OddValues.dll
+E:\leetProblems\DisplayOddValues\displayOddValues\OddValues\OddValues\obj\Debug\net6.0\OddValues.pdb
+E:\leetProblems\DisplayOddValues\displayOddValues\OddValues\OddValues\obj\Debug\net6.0\OddValues.genruntimeconfig.cache
+E:\leetProblems\DisplayOddValues\displayOddValues\OddValues\OddValues\obj\Debug\net6.0\ref\OddValues.dll
